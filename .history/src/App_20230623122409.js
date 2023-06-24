@@ -1,3 +1,4 @@
+
 import Card from "./card";
 
 function App() {
@@ -18,8 +19,8 @@ function App() {
       phoneSupports:"Dedicated Phone Support",
       isPhoneSupport:false,
       subDomain:"Free Subdomain",
-      isSubDomain:false,
-      reports:"Monthly Status Reports",
+      isSubdomain:false,
+      reports:"Monthly Status Reports"
       isReports:false
     },
     {
@@ -38,8 +39,8 @@ function App() {
       phoneSupports:"Dedicated Phone Support",
       isPhoneSupport:true,
       subDomain:"Free Subdomain",
-      isSubDomain:true,
-      reports:"Monthly Status Reports",
+      isSubdomain:true,
+      reports:"Monthly Status Reports"
       isReports:false
     },
     {
@@ -58,8 +59,8 @@ function App() {
       phoneSupports:"Dedicated Phone Support",
       isPhoneSupport:true,
       subDomain:"Unlimited Subdomains",
-      isSubDomain:true,
-      reports:"Monthly Status Reports",
+      isSubdomain:true,
+      reports:"Monthly Status Reports"
       isReports:true
     }
   ]
